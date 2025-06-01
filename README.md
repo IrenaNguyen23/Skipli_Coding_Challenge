@@ -151,3 +151,10 @@ The app runs on http://localhost:3001.
   
 ### Contact
 For questions or feedback, please contact Irena Nguyen at nguyenbaohoa02@gmail.com
+
+### Screenshots of application
+![Screenshot 2025-06-02 035752](https://github.com/user-attachments/assets/7c8151cc-6f54-4809-ae22-c59270f8855c)
+
+![Screenshot 2025-06-02 035920](https://github.com/user-attachments/assets/f5a93f42-2313-4a63-a62d-707ec81e772d)
+![Screenshot 2025-06-02 040013](https://github.com/user-attachments/assets/176ea963-ab0e-440a-b842-de97dcd4170b)
+![Screenshot 2025-06-02 040030](https://github.com/user-attachments/assets/14aa3de6-5204-46a4-a253-9735323ddb2e)
